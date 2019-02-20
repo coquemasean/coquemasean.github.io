@@ -1,0 +1,24 @@
+[
+    { "name":"Kebab",
+            "description":"Delicieux kebab",
+            "ingredients":[
+        "tomate",
+                "salade"
+],
+        "etape":[
+        "Découper les tomates",
+                "Découper les oignons"
+]
+    },
+    { "name":"Kebab",
+            "description":"Delicieux kebab",
+            "ingredients":[
+        "tomate",
+                "salade"
+],
+        "etape":[
+        "Découper les tomates",
+                "Découper les oignons"
+]
+    }
+]
