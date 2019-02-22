@@ -1,24 +1,68 @@
 [
-    { "name":"Kebab",
-            "description":"Delicieux kebab",
-            "ingredients":[
-        "tomate",
-                "salade"
+    {
+        "name":"Fondant au chocolat",
+            "description":"Facile",
+            "ingredients":
+     [
+        "200g de chocolat à patisser noir",
+                "100g de beurre",
+                "3 oeufs",
+                "50g de farine",
+                "100g de sucre en poudre"
+     ],
+
+        "etape 1":[
+        "Préchauffez votre four à 180°C (thermostat 6)",
+                "Dans une casserole, faites fondre le chocolat et le beurre coupé en morceaux à feu très doux"
 ],
-        "etape":[
-        "Découper les tomates",
-                "Découper les oignons"
+        "etape 2":[
+        "Dans un saladier, ajoutez le sucre, les oeufs, la farine. Mélangez"
+],
+        "etape 3":[
+        "Ajoutez le mélange chocolat/beurre. Mélangez bien"
+],
+        "etape 4":[
+        "Beurrez et farinez votre moule puis y versez la pâte à gâteau"
+],
+        "etape 5":[
+        "Faites cuire au four environ 20 minutes"
+],
+        "etape 6":[
+        "A la sortie du four le gâteau ne paraît pas assez cuit. C'est normal, laissez-le refroidir puis démoulez- le"
 ]
     },
-    { "name":"Kebab",
-            "description":"Delicieux kebab",
+
+    { "name":"Cookies au chocolat",
+            "description":"Facile",
             "ingredients":[
-        "tomate",
-                "salade"
+        "85 g de beurre mou",
+                "1 oeuf",
+                "85 g de sucre",
+                "Vanille ou 1 sachet de sucre vanillé",
+                "150 g de farine",
+                "100 g de chocolat noir",
+                "1 cuillère à café de sel",
+                "1 cuillère à café de levure chimique"
+
 ],
-        "etape":[
-        "Découper les tomates",
-                "Découper les oignons"
+        "etape 1":[
+        "Détailler le chocolat en pépites"
+],
+        "etape 2":[
+        "Préchauffer le four à 180°C (thermostat 6)",
+                "Dans un saladier, mettre 75 g de beurre, le sucre, l'oeuf entier, la vanille et mélanger le tout"
+],
+        "etape 3":[
+        "Ajouter petit à petit la farine mélangée à la levure, le sel et le chocolat"
+],
+        "etape 4":[
+        "Beurrer une plaque allant au four et former les cookies sur la plaque"
+],
+        "etape 5":[
+        "Pour former les cookies, utiliser 2 cuillères à soupe et faire des petits tas espacés les uns des autres; ils grandiront à la cuisson"
+] ,
+        "etape 6":[
+        "Enfourner pour 10 minutes de cuisson"
 ]
     }
 ]
